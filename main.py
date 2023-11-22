@@ -1,5 +1,5 @@
 """
-Juego de los marcianos
+Juego de invasión espacial
 """
 
 # Importaciones
